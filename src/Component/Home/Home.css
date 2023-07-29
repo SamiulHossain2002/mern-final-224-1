@@ -1,0 +1,19 @@
+.shop-container {
+  display: grid;
+  grid-template-columns: 4fr 1fr;
+}
+
+.card-container {
+  background-color: #398a3c;
+  color: white;
+  margin: 70px 0;
+  height: 63vh;
+  border-radius: 10px;
+  padding: 5px 25px;
+  position: fixed;
+  right: 0;
+}
+.see-more {
+  background-color: rgba(0, 0, 0, 0.566);
+  width: 160px;
+}

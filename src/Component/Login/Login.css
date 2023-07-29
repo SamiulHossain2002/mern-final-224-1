@@ -1,0 +1,18 @@
+.form-main {
+  width: 385px;
+  height: auto;
+  margin: auto;
+  border-radius: 20px;
+  background: #fff;
+  box-shadow: 3px 4px 10px 9px rgba(0, 0, 0, 0.05);
+  padding: 30px;
+  margin-top: 50px;
+  margin-bottom: 65px;
+  text-align: initial;
+}
+
+.left-right {
+  height: 2px;
+  width: 115px;
+  background-color: rgba(0, 0, 0, 0.616);
+}

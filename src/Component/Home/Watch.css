@@ -1,0 +1,40 @@
+.card-img-top {
+  height: 300px;
+  object-fit: cover;
+}
+.card-place {
+  padding: 30px;
+}
+.card-body {
+  /* product-info */
+}
+.card-title {
+  /* product-name */
+}
+.card-details {
+  /* paragrapn */
+}
+.add-to-cart-btn {
+  /* cart-btn */
+}
+.card-details {
+  height: 50px;
+}
+.add-to-cart-btn {
+  background-color: #4caf50;
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 4px;
+  box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+}
+
+.add-to-cart-btn:hover {
+  background-color: #3e8e41;
+}

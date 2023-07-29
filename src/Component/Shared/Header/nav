@@ -1,0 +1,36 @@
+[ { "id": "600dc1", "name": "Apple Watch", "about": "Starlight Aluminum Case
+with Braided Solo Loop ", "address": " Cupertino, California,USA", "company":
+"Apple", "price": 599, "img": "https://i.ibb.co/ccMjpvZ/1-smart-watch.jpg" }, {
+"id": "600dc2", "name": "Titan", "about": "Walk into the cosmos of fashion with
+TITAN ", "address": "New-Delhi,India", "company": "Titan", "price": 100, "img":
+"https://i.ibb.co/yq7NrSn/2-pocket-watch.jpg" }, { "id": "600dc3", "name":
+"Festina", "about": "On a leather strap or steel bracelet. ", "address": "
+Barcelona, Spain", "company": "FESTINA", "price": 350, "img":
+"https://i.ibb.co/RHz443B/3-wristwatch.jpg" }, { "id": "600dc4", "name":
+"Rider", "about": "RIDER1991 is an embodied dream about a free movement. ",
+"address": "Reytarska str. 35B, Kyiv, Ukraine ", "company": "RIDER", "price":
+200, "img": "https://i.ibb.co/VmsNgFR/4-analog-watch.jpg" }, { "id": "600dc5",
+"name": "Rolex-Gold", "about": "Rolex watches are crafted from the finest raw
+materials and assembled with scrupulous attention to detail. ", "address": "A.R.
+Morris 3848 Kennett Pike Greenville Delaware 19807. United States", "company":
+"ROLEX", "price": 5590, "img": "https://i.ibb.co/D8MBRyT/5-clock.jpg" }, { "id":
+"600dc6", "name": "Rolex-Explorer", "about": "The Oyster Perpetual Explorer 40
+in Oystersteel features a distinctive black dial ", "address": "A.R. Morris.
+3848 Kennett Pike Greenville Delaware 19807. United States", "company": "ROLEX",
+"price": 520, "img": "https://i.ibb.co/zVbLDm5/6-clock.jpg" }, { "id": "600dc7",
+"name": "U-BOAT DARKMOON 40", "about": "The innovative concept of oil immersion
+in the acclaimed red glass model in a reduced 40mm ", "address": "Pesciatina,
+751H 55010 Gragnano Capannori (LU) Italy", "company": "U-BOAT", "price": 799,
+"img": "https://i.ibb.co/tDTqbWt/7-clock.jpg" }, { "id": "600dc8", "name":
+"Xiaomi-SW3 ", "about": "Thin Black Watch ", "address": " China", "company":
+"Xiaomi", "price": 899, "img": "https://i.ibb.co/tCyYW0n/xiaomi.jpg" }, { "id":
+"600dc9", "name": "Royal Gold ", "about": "Three-Hand Date Gold-Tone Stainless
+Steel Watch ", "address": " Hasty, Florida", "company": "Royal", "price": 859,
+"img": "https://i.ibb.co/Rb281hH/royal.jpg" }, { "id": "600dc10", "name": "Titan
+T-5", "about": "Round ash Watch ", "address": " Hasty, Florida", "company":
+"Titan", "price": 1099, "img": "https://i.ibb.co/b5M8xVT/titan.jpg" }, { "id":
+"600dc11", "name": "Polar-PW-01 ", "about": "Workout Watch ", "address": " Polar
+California", "company": "Polar", "price": 599, "img":
+"https://i.ibb.co/fnWvbGC/polar.jpg" }, { "id": "600dc12", "name": "Fossil-FB-01
+", "about": "Gold-Tone Goldish Watch ", "address": " Hasty, Florida", "company":
+"FOSSIL", "price": 699, "img": "https://i.ibb.co/xLBMKTR/8-watch.jpg" } ]
